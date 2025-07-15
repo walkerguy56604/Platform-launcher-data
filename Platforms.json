@@ -1,0 +1,17 @@
+{
+  "GitHub": {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "description": "Code hosting platform"
+  },
+  "Hugging Face": {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "description": "AI model hub and datasets"
+  },
+  "NotebookLM": {
+    "name": "NotebookLM",
+    "url": "https://notebooklm.google.com",
+    "description": "AI-powered research notebook"
+  }
+}
